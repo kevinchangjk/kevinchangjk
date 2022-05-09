@@ -28,9 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinchangjk&show_icons=true&locale=en" alt="kevinchangjk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinchangjk&" alt="kevinchangjk" /></p>
-
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinchangjk" alt="kevinchangjk" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinchangjk" alt="kevinchangjk" /></a> </p>

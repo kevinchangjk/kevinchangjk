@@ -30,9 +30,9 @@
 
 <div align="center" float="left">
 
-  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinchangjk&hide=jupyter%20notebook,html&show_icons=true&theme=react&locale=en&layout=compact" alt="kevinchangjk" />
+  <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinchangjk&hide=jupyter%20notebook,html&show_icons=true&theme=react&locale=en&layout=compact" alt="kevinchangjk" />
 
-  <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=kevinchangjk&show_icons=true&theme=react&locale=en" alt="kevinchangjk" />
+  <img width="57%" align="center" src="https://github-readme-stats.vercel.app/api?username=kevinchangjk&show_icons=true&theme=react&locale=en" alt="kevinchangjk" />
 </div>
 
 ###

@@ -28,9 +28,9 @@
 
 # <div align="center">
 
-  <img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinchangjk&hide=jupyter%20notebook,html&show_icons=true&theme=react&locale=en&layout=compact" alt="kevinchangjk" />
+  <img width="41%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinchangjk&hide=jupyter%20notebook,html&show_icons=true&theme=react&locale=en&layout=compact" alt="kevinchangjk" />
 
-  <img width="57%" align="center" src="https://github-readme-stats.vercel.app/api?username=kevinchangjk&show_icons=true&theme=react&locale=en" alt="kevinchangjk" />
+  <img width="56%" align="center" src="https://github-readme-stats.vercel.app/api?username=kevinchangjk&show_icons=true&theme=react&locale=en" alt="kevinchangjk" />
 </div>
 
 <!-- TODO-IST:START -->

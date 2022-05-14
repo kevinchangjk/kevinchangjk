@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Abel&size=24&duration=4000&color=3891E1&multiline=true&width=450&height=80&lines=Hey%2C+I'm+Kevin+Chang;Computer+Science+Student+at+NUS)](https://git.io/typing-svg)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=kevinchangjk&label=Profile%20views&color=0e75b6&style=flat" alt="kevinchangjk" /> </p>
-
 - I'm an undergrad at the **National University of Singapore**
 
 - I enjoy working on code, solving problems, using **vim**

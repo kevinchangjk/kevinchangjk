@@ -37,11 +37,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinchangjk" alt="kevinchangjk" /></a> </p>
 
-### Todoist Stats
+### Wakatime Stats
 
-<!-- TODO-IST:START -->
-🏆  9,745 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 710 tasks so far           
-⏳  Longest streak is 2 days
-<!-- TODO-IST:END -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

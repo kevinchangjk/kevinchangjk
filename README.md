@@ -40,4 +40,14 @@
 ### Wakatime Stats
 
 <!--START_SECTION:waka-->
+
+```text
+Go                1 hr 52 mins    ███████▓░░░░░░░░░░░░░░░░░   30.72 %
+JavaScript        1 hr 26 mins    ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+TypeScript        51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+JSON              40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+Bash              26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Makefile          17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+```
+
 <!--END_SECTION:waka-->

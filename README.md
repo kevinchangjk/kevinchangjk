@@ -42,12 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go                7 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   30.09 %
-TypeScript        3 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-JavaScript        2 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-Rust              2 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-Python            1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-Markdown          1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

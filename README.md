@@ -2,7 +2,7 @@
 
 - I'm an undergrad at the **National University of Singapore**
 
-- I enjoy working on code, solving problems, using **vim**
+- I enjoy working on code, solving problems, using **neovim**
 
 - Currently learning **software engineering, dApps, smart contracts**
 

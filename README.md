@@ -42,11 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 20 mins    ███████████▓░░░░░░░░░░░░░   46.67 %
-Java     42 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
-HTML     17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-Docker   15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-Other    13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -34,7 +34,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 JavaScript   3 hrs 36 mins   █████████████████████████   99.98 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```

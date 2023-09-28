@@ -35,9 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX          14 mins         █████████████▓░░░░░░░░░░░   54.74 %
-JavaScript   8 mins          ████████░░░░░░░░░░░░░░░░░   32.33 %
-Lua          3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
+JavaScript   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

@@ -35,9 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TOML    7 mins          █████████████░░░░░░░░░░░░   52.16 %
-Rust    6 mins          ███████████▓░░░░░░░░░░░░░   46.51 %
-Ezhil   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

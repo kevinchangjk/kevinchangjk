@@ -35,9 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash    3 mins          ██████████████░░░░░░░░░░░   56.16 %
-Other   3 mins          ███████████░░░░░░░░░░░░░░   43.36 %
-C++     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

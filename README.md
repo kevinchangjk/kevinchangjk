@@ -35,9 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON        10 mins         ████████████████████░░░░░   80.47 %
-gitignore   2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
-YAML        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

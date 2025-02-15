@@ -35,7 +35,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Lua      0 secs          ████████████▓░░░░░░░░░░░░   50.57 %
+zsh      0 secs          ████████░░░░░░░░░░░░░░░░░   32.18 %
+Python   0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
 ```
 
 <!--END_SECTION:waka-->

@@ -35,7 +35,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CMake       3 mins          ██████████▓░░░░░░░░░░░░░░   42.92 %
+Markdown    2 mins          ████████▒░░░░░░░░░░░░░░░░   33.56 %
+Makefile    1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.23 %
+gitignore   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->

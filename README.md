@@ -35,7 +35,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+sshconfig   0 secs          ███████████████░░░░░░░░░░   59.46 %
+zsh         0 secs          ██████████░░░░░░░░░░░░░░░   40.54 %
 ```
 
 <!--END_SECTION:waka-->

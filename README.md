@@ -33,11 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         8 hrs 2 mins    ███████▓░░░░░░░░░░░░░░░░░   30.52 %
-Python       7 hrs 46 mins   ███████▒░░░░░░░░░░░░░░░░░   29.52 %
-JavaScript   4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
-TypeScript   3 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-JSON         1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

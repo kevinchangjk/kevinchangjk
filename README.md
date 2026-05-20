@@ -1,10 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Abel&size=24&duration=4000&color=3891E1&multiline=true&width=450&height=80&lines=Hey%2C+I'm+Kevin+Chang;Computer+Science+Student+at+NUS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=438FF1&vCenter=true&multiline=true&width=450&height=75&lines=Kevin+Chang;Engineer.+Builder.+Tinkerer.)](https://git.io/typing-svg)
 
-- I'm an undergrad at the **National University of Singapore**
+- I'm a software engineer interested in fun puzzles and problems
 
-- I enjoy working on code, solving problems, using **neovim**
-
-- Currently learning **software engineering, parallel computing, networks**
+- Mainly working with parallel and concurrent programming, and building on distributed systems
 
 - You can reach me at **kevinchangjk@gmail.com**
 

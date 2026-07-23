@@ -33,7 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Lua        46 mins               ████████████▒░░░░░░░░░░░░   49.05 %
+zsh        16 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
+Markdown   12 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
+Python     6 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+JSON       4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
 ```
 
 <!--END_SECTION:waka-->
